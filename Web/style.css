@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,600&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+}
+
+div.container-fluid
+{
+    font-size: large;
+    
+}
+
+
+.container{
+  background: url(resim5.jpg);
+  height: 100vh;
+  background-size: 100% 100%;
+  background-size: cover;
+}
+
+.container .navbar{
+
+  height: 80px;
+  width: 100%;
+  
+}
+
