@@ -1,1 +1,1 @@
-## My website where I introduce myself and my city.
+## I introduce myself and my city on my website.
